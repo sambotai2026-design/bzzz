@@ -22,7 +22,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: BZzz-Frequency-VST3-macOS
-          path: "build/BzzzFrequency_artefacts/Release/VST3/B'Zzz Frequency.vst3"
+          path: "build/BzzzFrequency_artefacts/Release/VST3/BZzz Frequency.vst3"
 
   windows:
     name: Windows
@@ -43,4 +43,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: BZzz-Frequency-VST3-Windows
-          path: "build/BzzzFrequency_artefacts/Release/VST3/B'Zzz Frequency.vst3"
+          path: "build/BzzzFrequency_artefacts/Release/VST3/BZzz Frequency.vst3"
