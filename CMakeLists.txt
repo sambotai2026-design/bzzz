@@ -21,7 +21,7 @@ juce_add_plugin(BzzzFrequency
     PLUGIN_MANUFACTURER_CODE Ptrc
     PLUGIN_CODE Bzzf
     FORMATS VST3
-    PRODUCT_NAME "B'Zzz Frequency")
+    PRODUCT_NAME "BZzz Frequency")
 
 target_sources(BzzzFrequency PRIVATE
     Source/PluginProcessor.cpp
